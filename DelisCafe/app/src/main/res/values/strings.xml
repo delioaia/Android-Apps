@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Deli\'s Cafe</string>
+    <string name="name">Deli\'s Café</string>
+    <string name="tel">0723 123 456</string>
+    <string name="website">www.deliscafe.ro</string>
+    <string name="location">No 2 Lucian Blaga street, Bucharest</string>
+    <string name="hours">Daily 07:00 - 19:00</string>
+    <string name="slogan">For coffee lovers.</string>
+</resources>
